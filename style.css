@@ -1,3 +1,25 @@
 body{
-    background-color: aqua;
+    display:grid;
+    grid-gap: 20px;
+    grid-template-areas: 
+    "cabeca cabeca cabeca cabeca"
+    "esquer princi princi direit"
+    "rodape rodape rodape rodape";
+    grid-template-columns: 300px auto auto 300px;
+    grid-template-rows: auto auto auto auto;
+}
+.grid_h{
+    grid-area: cabeca;
+}
+.grid_m{
+    grid-area: princi;
+}
+.grid_e{
+    grid-area: esquer;
+}
+.grid_d{
+    grid-area: direit;
+}
+.grid_f{
+    grid-area: rodape;
 }
