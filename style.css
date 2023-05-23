@@ -11,24 +11,19 @@ body{
 .grid_h{
     grid-area: cabeca;
     display: flex;
-    background-color: aqua;
 }
 .grid_m{
     grid-area: princi;
-    background-color: brown;
 }
 .grid_e{
     grid-area: esquer;
     display: flex;
-    background-color: blueviolet;
 }
 .grid_d{
     grid-area: direit;
     display: flex;
-    background-color: blue;
 }
 .grid_f{
     grid-area: rodape;
     display: flex;
-    background-color: coral;
 }
