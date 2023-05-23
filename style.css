@@ -15,7 +15,6 @@ body{
 }
 .grid_m{
     grid-area: princi;
-    display: flex;
     background-color: brown;
 }
 .grid_e{
