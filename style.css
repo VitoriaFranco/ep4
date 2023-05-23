@@ -11,20 +11,25 @@ body{
 .grid_h{
     grid-area: cabeca;
     display: flex;
+    color: aqua;
 }
 .grid_m{
     grid-area: princi;
     display: flex;
+    color: brown;
 }
 .grid_e{
     grid-area: esquer;
     display: flex;
+    color: blueviolet;
 }
 .grid_d{
     grid-area: direit;
     display: flex;
+    color: blue;
 }
 .grid_f{
     grid-area: rodape;
     display: flex;
+    color: coral;
 }
