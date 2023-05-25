@@ -16,6 +16,7 @@ body{
     grid-area: princi;
 }
 .grid_e{
+
     grid-area: esquer;/*parte que compõe uma área da grade*/
     padding-left: 10px;/*define o espaço no lado esquerdo*/
     text-align: center;/*alinha o texto centralmente*/
@@ -25,6 +26,7 @@ body{
     line-height: 1.5;/*define espaçamente entre linhas*/
     padding-top: 5%;/*define espaçamento interno superior*/
     padding-bottom: 5%;/*define espaçamento interno inferior*/
+
 }
 .grid_d{
     grid-area: direit;/*parte que compõe uma área da grade*/
