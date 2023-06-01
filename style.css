@@ -55,6 +55,13 @@ body{
     padding-bottom: 5%;/*define espaçamento interno inferior*/
 }
 .grid_f{
-    grid-area: rodape;
-    display: flex;
+    grid-area: rodape;/*parte que compõe uma área da grade*/
+    width: 100%;/*altera largura*/
+    padding: 10px;/*define distância entre conteúdo e suas bordas*/
+    display: flex;/*define se um elemento é tratado como um bloco ou elemento inline */
+    justify-content: center;/*é usada para alinhar os elementos ao longo do eixo principal */
+    align-items: center;/*como flex items são alinhados de acordo com o eixo transversal*/
+    background-color: lightgreen;/*define a cor de fundo*/
+    color: black;/*Define a cor do texto de um elemento*/
+    box-sizing: border-box;/* usada para calcular larguras (widths) e alturas (heights) dos elementos.*/
 }
