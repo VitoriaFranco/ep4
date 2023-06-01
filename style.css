@@ -10,7 +10,7 @@ body{
 }
 .grid_h{
     grid-area: cabeca;/*parte que compõe uma área da grade*/
-    padding-left: 10px;/*define o espaço no lado esquerdo*/
+    
     text-align: center;/*alinha o texto centralmente*/
     color: black;/*altera cor de letra para preto*/
     background-color:lightgreen;/*altera cor de fundo*/
@@ -21,7 +21,7 @@ body{
 }
 .grid_m{
     grid-area: princi;/*parte que compõe uma área da grade*/
-    padding-left: 10px;/*define o espaço no lado esquerdo*/
+
     text-align: center;/*alinha o texto centralmente*/
     color: black;/*altera cor de letra para preto*/
     background-color:lightgreen;/*altera cor de fundo*/
