@@ -1,11 +1,11 @@
 body{
-    display:grid;
+    display:grid; /*está dividindo o site em formato grid*/
     grid-gap: 20px;
     grid-template-areas: 
     "cabeca cabeca cabeca cabeca"
     "esquer princi princi direit"
-    "rodape rodape rodape rodape";
-    grid-template-columns: 300px auto auto 300px;
+    "rodape rodape rodape rodape"; /*mostra como o grid vai aparecer no site*/
+    grid-template-columns: 300px auto auto 300px; 
     grid-template-rows: auto auto auto auto;
 }
 .grid_h{
@@ -21,7 +21,7 @@ body{
     padding-left: 10px;/*define o espaço no lado esquerdo*/
     text-align: center;/*alinha o texto centralmente*/
     color: black;/*altera cor de letra para preto*/
-    background-color:antiquewhite;/*altera cor de fundo*/
+    background-color:green;/*altera cor de fundo*/
     border-style: groove;/*estilo de borda em groove*/
     line-height: 1.5;/*define espaçamente entre linhas*/
     padding-top: 5%;/*define espaçamento interno superior*/
@@ -33,7 +33,7 @@ body{
     padding-left: 10px;/*define o espaço no lado esquerdo*/
     text-align: center;/*alinha o texto centralmente*/
     color: black;/*altera cor de letra para preto*/
-    background-color:antiquewhite;/*altera cor de fundo*/
+    background-color:green;/*altera cor de fundo*/
     border-style: groove;/*estilo de borda em groove*/
     line-height: 1.5;/*define espaçamente entre linhas*/
     padding-top: 5%;/*define espaçamento interno superior*/
