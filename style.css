@@ -9,11 +9,26 @@ body{
     grid-template-rows: auto auto auto auto;
 }
 .grid_h{
-    grid-area: cabeca;
-    display: flex;
+    grid-area: cabeca;/*parte que compõe uma área da grade*/
+    padding-left: 10px;/*define o espaço no lado esquerdo*/
+    text-align: center;/*alinha o texto centralmente*/
+    color: black;/*altera cor de letra para preto*/
+    background-color:green;/*altera cor de fundo*/
+    border-style: groove;/*estilo de borda em groove*/
+    line-height: 1.5;/*define espaçamente entre linhas*/
+    padding-top: 5%;/*define espaçamento interno superior*/
+    padding-bottom: 5%;/*define espaçamento interno inferior*/
 }
 .grid_m{
-    grid-area: princi;
+    grid-area: princi;/*parte que compõe uma área da grade*/
+    padding-left: 10px;/*define o espaço no lado esquerdo*/
+    text-align: center;/*alinha o texto centralmente*/
+    color: black;/*altera cor de letra para preto*/
+    background-color:green;/*altera cor de fundo*/
+    border-style: groove;/*estilo de borda em groove*/
+    line-height: 1.5;/*define espaçamente entre linhas*/
+    padding-top: 5%;/*define espaçamento interno superior*/
+    padding-bottom: 5%;/*define espaçamento interno inferior*/
 }
 .grid_e{
 
