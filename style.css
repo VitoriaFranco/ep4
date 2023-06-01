@@ -13,7 +13,7 @@ body{
     padding-left: 10px;/*define o espaço no lado esquerdo*/
     text-align: center;/*alinha o texto centralmente*/
     color: black;/*altera cor de letra para preto*/
-    background-color:green;/*altera cor de fundo*/
+    background-color:lightgreen;/*altera cor de fundo*/
     border-style: groove;/*estilo de borda em groove*/
     line-height: 1.5;/*define espaçamente entre linhas*/
     padding-top: 5%;/*define espaçamento interno superior*/
@@ -24,7 +24,7 @@ body{
     padding-left: 10px;/*define o espaço no lado esquerdo*/
     text-align: center;/*alinha o texto centralmente*/
     color: black;/*altera cor de letra para preto*/
-    background-color:green;/*altera cor de fundo*/
+    background-color:lightgreen;/*altera cor de fundo*/
     border-style: groove;/*estilo de borda em groove*/
     line-height: 1.5;/*define espaçamente entre linhas*/
     padding-top: 5%;/*define espaçamento interno superior*/
